@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\opilane\\.nuget\\packages\\": {}
+    "C:\\Users\\Kasutaja\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\CreditCard\\CreditCard\\CreditCard.csproj",
+      "projectUniqueName": "C:\\Users\\Kasutaja\\Source\\Repos\\Credit-Card\\CreditCard\\CreditCard.csproj",
       "projectName": "CreditCard",
-      "projectPath": "C:\\Users\\opilane\\source\\repos\\CreditCard\\CreditCard\\CreditCard.csproj",
-      "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\opilane\\source\\repos\\CreditCard\\CreditCard\\obj\\",
+      "projectPath": "C:\\Users\\Kasutaja\\Source\\Repos\\Credit-Card\\CreditCard\\CreditCard.csproj",
+      "packagesPath": "C:\\Users\\Kasutaja\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kasutaja\\Source\\Repos\\Credit-Card\\CreditCard\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\opilane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Kasutaja\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

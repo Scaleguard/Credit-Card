@@ -13,23 +13,24 @@ namespace CreditCard
             {
                 GetAge(UserID);
                 HelloUser(UserID);
-
-
             }
             else
             {
-                Console.WriteLine("Please enter a vaild ID code!");
+                Console.WriteLine("Your ID code is invalid!");
+                System.Environment.Exit(1);
             }
+
             Console.WriteLine("Please enter your Credit Card Number!");
             string CreditCardN = Console.ReadLine();
 
             if (CreditCard(CreditCardN))
             {
+                Console.WriteLine("");
                 ValidateCard(CreditCardN);
-                
             }else 
             {
-                Console.WriteLine("Please enter a valid Credit Card Number");
+                Console.WriteLine("Your Credit Card is invalid");
+                System.Environment.Exit(1);
             }
             Console.WriteLine("Please enter your CVV");
             string CVV = Console.ReadLine();
@@ -141,7 +142,7 @@ namespace CreditCard
         }
         public static long ValidateCard(string Numbers)
         {
-            int NumbersFromCode = Int32.Parse(Numbers.Substring(1, 2));
+            int NumbersFromCode = Int32.Parse(Numbers.Substring(0, 2));
 
 
             if (NumbersFromCode >= 51 && NumbersFromCode <= 55)
@@ -151,6 +152,7 @@ namespace CreditCard
             else
             {
                 Console.WriteLine("You do not have a valid Credit Card!");
+                System.Environment.Exit(1);
             }
             long NumberINF = long.Parse(Numbers);
 

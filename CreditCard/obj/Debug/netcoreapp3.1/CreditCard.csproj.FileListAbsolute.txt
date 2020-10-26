@@ -11,3 +11,16 @@ C:\Users\opilane\source\repos\CreditCard\CreditCard\obj\Debug\netcoreapp3.1\Cred
 C:\Users\opilane\source\repos\CreditCard\CreditCard\obj\Debug\netcoreapp3.1\CreditCard.dll
 C:\Users\opilane\source\repos\CreditCard\CreditCard\obj\Debug\netcoreapp3.1\CreditCard.pdb
 C:\Users\opilane\source\repos\CreditCard\CreditCard\obj\Debug\netcoreapp3.1\CreditCard.genruntimeconfig.cache
+C:\Users\Kasutaja\Source\Repos\Credit-Card\CreditCard\bin\Debug\netcoreapp3.1\CreditCard.exe
+C:\Users\Kasutaja\Source\Repos\Credit-Card\CreditCard\bin\Debug\netcoreapp3.1\CreditCard.deps.json
+C:\Users\Kasutaja\Source\Repos\Credit-Card\CreditCard\bin\Debug\netcoreapp3.1\CreditCard.runtimeconfig.json
+C:\Users\Kasutaja\Source\Repos\Credit-Card\CreditCard\bin\Debug\netcoreapp3.1\CreditCard.runtimeconfig.dev.json
+C:\Users\Kasutaja\Source\Repos\Credit-Card\CreditCard\bin\Debug\netcoreapp3.1\CreditCard.dll
+C:\Users\Kasutaja\Source\Repos\Credit-Card\CreditCard\bin\Debug\netcoreapp3.1\CreditCard.pdb
+C:\Users\Kasutaja\Source\Repos\Credit-Card\CreditCard\obj\Debug\netcoreapp3.1\CreditCard.csprojAssemblyReference.cache
+C:\Users\Kasutaja\Source\Repos\Credit-Card\CreditCard\obj\Debug\netcoreapp3.1\CreditCard.AssemblyInfoInputs.cache
+C:\Users\Kasutaja\Source\Repos\Credit-Card\CreditCard\obj\Debug\netcoreapp3.1\CreditCard.AssemblyInfo.cs
+C:\Users\Kasutaja\Source\Repos\Credit-Card\CreditCard\obj\Debug\netcoreapp3.1\CreditCard.csproj.CoreCompileInputs.cache
+C:\Users\Kasutaja\Source\Repos\Credit-Card\CreditCard\obj\Debug\netcoreapp3.1\CreditCard.dll
+C:\Users\Kasutaja\Source\Repos\Credit-Card\CreditCard\obj\Debug\netcoreapp3.1\CreditCard.pdb
+C:\Users\Kasutaja\Source\Repos\Credit-Card\CreditCard\obj\Debug\netcoreapp3.1\CreditCard.genruntimeconfig.cache
